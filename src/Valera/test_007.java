@@ -1,4 +1,4 @@
-package us100.Valera;
+package Valera;
 
 public class test_007 {
 }
